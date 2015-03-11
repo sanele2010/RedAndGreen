@@ -1,8 +1,17 @@
-#mySquare{
+#tests{
 
-height: 300px;
-width: 300px;
-background-color: green;
+height: 100%;
+width: 100%;
 display: inline-block;
+border: none;
 }
 
+
+div {
+	border: solid 3px black;
+}
+
+#results{
+
+	border: none;
+}
